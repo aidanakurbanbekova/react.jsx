@@ -1,0 +1,11 @@
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+}
+
+
+a {
+    text-decoration: none;
+}
